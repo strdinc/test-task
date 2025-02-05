@@ -2,4 +2,5 @@
 
 Для запуска открыть файл index.html
 
-![image](https://github.com/user-attachments/assets/cd2286ab-c897-4a82-a1ed-267f403a50ff)
+![image](https://github.com/user-attachments/assets/a00da3b4-b7c8-4338-9f0e-cfc5bb0c50ca)
+

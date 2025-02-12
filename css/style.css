@@ -9,12 +9,13 @@ body {
   position: absolute;
   top: 50px;
   left: 10px;
-  background: rgba(0, 0, 0, 0.73);
-  color: white;
+  background: white;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
   text-align: left;
+  padding: 10px;
+  font-weight: 600;
 }
 
 p {
@@ -30,3 +31,13 @@ p {
 .coordsB {
   color: blue;
 }
+
+.angle {
+  color: #ffa500;
+}
+
+.azimuth {
+  color: #ff00ff;
+}
+
+
